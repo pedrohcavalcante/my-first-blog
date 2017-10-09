@@ -1,0 +1,24 @@
+body{
+	align-content: center;
+	background-color: #514663;
+}
+.container{
+	color: red;
+}
+
+img{
+	width: 7.125em;
+	height: 7.125em;
+}
+table{
+	text-align: center;
+}
+th{
+	text-align: center;
+}
+.left-container{
+	margin-top: 5%;
+}
+.left-container > table{
+	background-color: #4d5382;
+}
